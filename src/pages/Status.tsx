@@ -31,7 +31,7 @@ const [answer , setAnswer]= useState([
 
 return(
   <main className='status'>
-  <Header title="tweet" />
+  <Header title="Tweet" />
 
   <Tweet content="Lorem ipsum dolor sit amet, 
     consectetur adipisicing elit. 
