@@ -1,12 +1,12 @@
 {
   "name": "ui-twitter",
-  "homepage": "https://leidyolinto.github.io/ui-twitter.git",
+  "homepage": "https://LeidyOlinto.github.io/ui-twitter.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
